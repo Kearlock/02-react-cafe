@@ -1,3 +1,4 @@
+//
 import css from "./VoteOptions.module.css";
 import type { VoteType } from "../../Types/Votes";
 
